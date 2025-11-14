@@ -41,10 +41,31 @@ I'm a passionate software developer building **clean, scalable and modern digita
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning Stack
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" />
+</p>
+
+---
+
+## 📁 Portfolio & CV
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0044ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://your-cv-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20CV-0044ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -63,19 +84,19 @@ I'm a passionate software developer building **clean, scalable and modern digita
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabie-Zerrim&layout=compact&hide_border=true&theme=transparent" height="165" />
-</div>
+## 📊 GitHub Stats (Custom Blue Cards)
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=00000000" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabie-Zerrim&layout=compact&hide_border=true&title_color=1e90ff&text_color=ffffff&bg_color=00000000" height="165" />
+</div>
 
 ---
 
 ## 🚀 Contribution & Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=0d1117&color=1e90ff&line=1e90ff&point=ffffff&area=true&area_color=1e90ff&hide_border=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=000814&color=1e90ff&line=1e90ff&point=ffffff&area=true&area_color=1e90ff&area_opacity=0.35&hide_border=true&radius=14" />
 </div>
 
 <br/>
