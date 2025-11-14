@@ -14,11 +14,11 @@ I'm Rabie  I design and build scalable web apps with a focus on clean UX and mai
 
 ## Tech Stack
 
-- **Languages:** `TypeScript`, `JavaScript`, `HTML`, `CSS`
-- **Backend:** `Node.js`, `Express` (or `Fastify`)
-- **Frontend:** `React`, `Next.js`, `Tailwind CSS`
-- **Databases:** `PostgreSQL`, `MongoDB`
-- **Tools & CI:** `Docker`, `GitHub Actions`, `Vercel` / `Netlify`
+- **Languages:** TypeScript, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express (or Fastify)
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Databases:** PostgreSQL, MongoDB
+- **Tools & CI:** Docker, GitHub Actions, Vercel / Netlify
 
 Quick badges (replace handles where needed):
 
@@ -28,50 +28,65 @@ Quick badges (replace handles where needed):
 
 ## Projects
 
-> A curated selection of projects  click to open the repo or live demo.
+> Auto-populated from public repositories on GitHub (sorted by recent activity).
 
-- **Project One**  A short description of the project, tech used, and highlight. 
-  - Repo: `https://github.com/Rabie-Zerrim/project-one`
-  - Tech: `React`, `TypeScript`, `Node.js`
+- **[Rabie-Zerrim](https://github.com/Rabie-Zerrim/Rabie-Zerrim)**  
+  - Tech: $lang
 
-- **Project Two**  Another project summary with what it solves.
-  - Repo: `https://github.com/Rabie-Zerrim/project-two`
-  - Tech: `Next.js`, `TailwindCSS`, `Postgres`
+- **[Portfolio](https://github.com/Rabie-Zerrim/Portfolio)**  
+  - Tech: $lang
 
-- **Project Three**  Small utility or library.
-  - Repo: `https://github.com/Rabie-Zerrim/project-three`
-  - Tech: `JavaScript`, `NPM`
+- **[Sage-Class-AI-Assistant-](https://github.com/Rabie-Zerrim/Sage-Class-AI-Assistant-)**  
+  - Tech: $lang
 
-> Add more projects below using the same format. If you want, I can automatically detect repositories and populate this list.
+- **[Partnerly-](https://github.com/Rabie-Zerrim/Partnerly-)**  
+  - Tech: $lang
+
+- **[Intelligent-Partnership-Assistant-IPA-](https://github.com/Rabie-Zerrim/Intelligent-Partnership-Assistant-IPA-)**  
+  - Tech: $lang
+
+- **[Partnership-Management](https://github.com/Rabie-Zerrim/Partnership-Management)**  
+  - Tech: $lang
+
+- **[Coding-Factory](https://github.com/Rabie-Zerrim/Coding-Factory)**  
+  - Tech: $lang
+
+- **[CodingFactoryMicroService](https://github.com/Rabie-Zerrim/CodingFactoryMicroService)**  
+  - Tech: $lang
+
+- **[PennyWise](https://github.com/Rabie-Zerrim/PennyWise)**  Pi Financial Tracking application w symfony
+  - Tech: $lang
+
+- **[Banking-Tracker](https://github.com/Rabie-Zerrim/Banking-Tracker)**  
+  - Tech: $lang
+
 
 ---
 
-## GitHub Stats
+## Visual Widgets
 
-[![Rabie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- **GitHub Activity Graph** (dark theme):
 
-[![Rabie's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rabie-Zerrim&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rabie-Zerrim&theme=react-dark)
+
+- **Top languages & stats** (already above): use github-readme-stats:
+
+  [![Rabie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+- **Now Playing (Spotify)** — example placeholder (requires separate service/token):
+
+  [![Now Playing](https://spotify-readme.now.sh/api/now-playing)](https://open.spotify.com)
+
+  To enable Spotify widget, follow: https://github.com/kazuki0924/spotify-readme or ask me to set it up.
 
 ---
 
 ## Contact
 
-- Email: `your.email@example.com`
-- LinkedIn: `https://linkedin.com/in/your_profile`
-- Twitter: `https://twitter.com/your_twitter`
+- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/your_profile
+- Twitter: https://twitter.com/your_twitter
 
 ---
 
-## How to Customize
-
-1. Replace badges and links with your own handles.
-2. Fill in project entries and update repo URLs.
-3. To enable dynamic GitHub cards, install and use `https://github.com/anuraghazra/github-readme-stats` (no hosting required).
-
-If you'd like, I can:
-- Automatically populate the `Projects` section from your GitHub repositories.
-- Add a Spotify widget, tech icons, or a contribution heatmap like in the screenshot.
-
----
-
-_Last updated: $(Get-Date -Format "yyyy-MM-dd")_
+_Last updated: 2025-11-14_
