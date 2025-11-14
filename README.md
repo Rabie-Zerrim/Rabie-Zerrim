@@ -37,7 +37,7 @@ I love building **AI-powered solutions**, optimizing systems, and creating smoot
 ## 🤖 AI & Machine Learning Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,fastapi,flask,jupyter,matplotlib,kaggle,scipy,huggingface,onnx&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,jupyter,fastapi,flask&perline=6" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ I love building **AI-powered solutions**, optimizing systems, and creating smoot
 
 ---
 
-## 📊 GitHub Stats (AI/ML Focus)
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -94,7 +94,7 @@ I love building **AI-powered solutions**, optimizing systems, and creating smoot
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
 
 ### 👉 Project 1
 AI-powered recommendation engine with FastAPI backend.
