@@ -88,9 +88,23 @@ I love building **AI-powered solutions**, optimizing systems, and creating smoot
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&theme=react-dark&hide_border=true&area=true&line=4BA3FA&point=4BA3FA&color=4BA3FA" 
-  />
+ <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?
+  username=Rabie-Zerrim&
+  bg_color=0d1117&
+  color=00aaff&
+  line=00bbff&
+  point=0099ff&
+  area=true&
+  area_color=0077ff&
+  area_opacity=0.55&
+  hide_border=true&
+  custom_title=Rabie%20Zerrim%27s%20Contribution%20Graph%20(Enhanced)&
+  radius=10&
+  line_width=4&
+  height=350" 
+/>
+
 </p>
 
 ---
