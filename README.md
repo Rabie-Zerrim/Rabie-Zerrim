@@ -2,7 +2,7 @@
 
 <!-- Banner / Hero -->
 <h1 align="center">Hi, I'm <strong>Rabie Zerrim</strong> 👋</h1>
-<p align="center">Software Developer • Full-Stack Engineer • Problem Solver</p>
+<p align="center">Software Developer • Full‑Stack Engineer • Problem Solver</p>
 <br/>
 
 <!-- Badges -->
@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 I'm a passionate software developer building **clean, scalable and modern digital solutions**.
 
-- 🔭 Currently working on: **Full-Stack solutions & Cloud-native apps**  
+- 🔭 Currently working on: **Full‑Stack solutions & Cloud‑native apps**  
 - 🚀 Interested in: **AI, Microservices, Mobile Apps, Frontend Frameworks**  
 - 📫 Reach me: **rabiezerrim@gmail.com**  
 
@@ -30,19 +30,22 @@ I'm a passionate software developer building **clean, scalable and modern digita
 
 ---
 
-## 🛠️ Tech Stack (Animated Icons Working)
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/python.gif" width="55" />
-  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/java.gif" width="55" />
-  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/react.gif" width="55" />
-  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/vue.gif" width="55" />
-  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/flutter.gif" width="55" />
-  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/spring.gif" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" />
 </p>
-
-<br/>
 
 ---
 
@@ -72,7 +75,7 @@ I'm a passionate software developer building **clean, scalable and modern digita
 
 ## 🚀 Contribution & Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=0d1117&color=1e90ff&line=1e90ff&point=ffffff&area=true&area_color=1e90ff&custom_title=Rabie's%20Contribution%20Graph&hide_border=true&radius=14" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=0d1117&color=1e90ff&line=1e90ff&point=ffffff&area=true&area_color=1e90ff&hide_border=true&radius=12" />
 </div>
 
 <br/>
