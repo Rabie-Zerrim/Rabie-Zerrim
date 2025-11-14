@@ -4,6 +4,21 @@
 
 <br/>
 
+<!-- Quick Links -->
+<p align="center">
+  <a href="https://rabie-zerrim.github.io/Portfolio/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge" />
+  </a>
+  <a href="https://rabie-zerrim.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-009dff?style=for-the-badge" />
+  </a>
+  <a href="mailto:rabiezerrim@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Me-red?style=for-the-badge" />
+  </a>
+</p>
+
+<br/>
+
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/Rabie-Zerrim">
@@ -18,17 +33,19 @@
 
 <!-- About -->
 ## 👨‍💻 About Me
-I'm a passionate software developer focused on building clean, scalable and modern digital solutions.  
-I enjoy full-stack development, system architecture, and solving complex problems.
 
-- 🔭 Currently working on: **Full-Stack solutions & Cloud-native apps**  
-- 🚀 Interested in: **AI, Microservices, Mobile Apps, Frontend Frameworks**  
-- 📫 Reach me: **rabiezerrim@gmail.com**  
+I'm a passionate software developer focused on building clean, scalable, and modern digital solutions.  
+I enjoy full-stack development, system architecture, and solving complex challenges.
+
+- 🔭 Currently working on: **Full-Stack systems & AI-powered apps**  
+- 🚀 Interests: **AI, Microservices, Mobile Apps, Modern Web Frameworks**  
+- 📫 Email: **rabiezerrim@gmail.com**  
 
 <br/>
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+---
+
+# 🛠️ Tech Stack (Animated)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/python.gif" width="55" />
@@ -38,16 +55,16 @@ I enjoy full-stack development, system architecture, and solving complex problem
   <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/flutter.gif" width="55" />
   <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/spring.gif" width="55" />
 
-  <!-- Static icons for now -->
+  <!-- Static until animated versions are made -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="55" />
 </p>
 
-
 <br/>
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -65,20 +82,21 @@ I enjoy full-stack development, system architecture, and solving complex problem
 
 <br/>
 
-<!-- GitHub Activity -->
-## 🚀 Contribution & Activity
+---
+
+# 🚀 Contributions & Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=0d1117&color=009dff&line=009dff&point=ffffff&area=true&area_color=009dff&hide_border=true" />
 
-
 </div>
 
 <br/>
 
-<!-- Contact -->
-## 🌐 Connect with Me
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/rabie-zerrim">
