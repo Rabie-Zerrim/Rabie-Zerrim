@@ -73,7 +73,7 @@ I love building **AI-powered solutions**, optimizing systems, and creating smoot
 
 ---
 
-## 🔥 Streak Stats (Blue Theme)
+## 🔥 Streak Stats
 
 <p align="center">
   <img 
@@ -84,7 +84,7 @@ I love building **AI-powered solutions**, optimizing systems, and creating smoot
 
 ---
 
-## 📈 Contribution Graph (Fuller Look)
+## 📈 Contribution Graph
 
 <p align="center">
   <img 
@@ -94,7 +94,7 @@ I love building **AI-powered solutions**, optimizing systems, and creating smoot
 
 ---
 
-## 🚀 Featured Projects (Optional Section)
+## 🚀 Featured Projects
 
 ### 👉 Project 1
 AI-powered recommendation engine with FastAPI backend.
