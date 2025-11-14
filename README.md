@@ -31,23 +31,16 @@ I enjoy full-stack development, system architecture, and solving complex problem
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
-  <!-- Java -->
-  <img src="https://skillicons.dev/icons?i=java" width="50" />
-  <!-- React -->
-  <img src="https://skillicons.dev/icons?i=react" width="50" />
-  <!-- Vue -->
-  <img src="https://skillicons.dev/icons?i=vue" width="50" />
-  <!-- Flutter -->
-  <img src="https://skillicons.dev/icons?i=flutter" width="50" />
-  <!-- Spring Boot -->
-  <img src="https://skillicons.dev/icons?i=spring" width="50" />
-  <!-- Symfony -->
-  <img src="https://skillicons.dev/icons?i=symfony" width="50" />
-  <!-- Django -->
-  <img src="https://skillicons.dev/icons?i=django" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/react.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/vue.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/flutter.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/spring.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/symfony.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/django.svg" width="55" />
 </p>
+
 
 <br/>
 
@@ -75,9 +68,8 @@ I enjoy full-stack development, system architecture, and solving complex problem
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&theme=github-dark&hide_border=true" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&area_color=00ff7f&hide_border=true" />
+
 
 </div>
 
