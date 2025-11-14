@@ -1,87 +1,103 @@
-$content = @'
+<!-- Banner / Hero -->
+<h1 align="center">Hi, I'm <strong>Rabie Zerrim</strong> 👋</h1>
+<p align="center">Software Developer • Full-Stack Engineer • Problem Solver</p>
+
+<br/>
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/Rabie-Zerrim">
+    <img src="https://komarev.com/ghpvc/?username=Rabie-Zerrim&style=for-the-badge&label=Profile+Views" />
+  </a>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/badge/user/e4dcfa04-d64c-44f4-b3bc-82f450b67c3e.svg?style=for-the-badge" />
+  </a>
+</p>
+
+<br/>
+
+<!-- About -->
+## 👨‍💻 About Me
+I'm a passionate software developer focused on building clean, scalable and modern digital solutions.  
+I enjoy full-stack development, system architecture, and solving complex problems.
+
+- 🔭 Currently working on: **Full-Stack solutions & Cloud-native apps**  
+- 🚀 Interested in: **AI, Microservices, Mobile Apps, Frontend Frameworks**  
+- 📫 Reach me: **rabiezerrim@gmail.com**  
+
+<br/>
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <!-- Java -->
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <!-- Vue -->
+  <img src="https://skillicons.dev/icons?i=vue" width="50" />
+  <!-- Flutter -->
+  <img src="https://skillicons.dev/icons?i=flutter" width="50" />
+  <!-- Spring Boot -->
+  <img src="https://skillicons.dev/icons?i=spring" width="50" />
+  <!-- Symfony -->
+  <img src="https://skillicons.dev/icons?i=symfony" width="50" />
+  <!-- Django -->
+  <img src="https://skillicons.dev/icons?i=django" width="50" />
+</p>
+
+<br/>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
 <div align="center">
-  <h1>Rabie Zerrim</h1>
-  <p><em>Software Architecture Engineering • AI & Web • ESPRIT</em></p>
 
-  <p>
-    <a href="https://github.com/Rabie-Zerrim" title="GitHub"><img src="https://img.shields.io/badge/GitHub-Rabie--Zerrim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://linkedin.com/in/rabie-zerrim-130374274/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:rabiezerrim@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-rabiezerrim%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&hide_border=true&theme=transparent" 
+    height="160px" 
+  />
 
-  <!-- Dark/light stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&theme=dark&hide_border=true&count_private=true">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&theme=default&hide_border=true&count_private=true">
-  </picture>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabie-Zerrim&layout=compact&hide_border=true&theme=transparent" 
+    height="160px"
+  />
 
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rabie-Zerrim&theme=dark">
-      <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Rabie-Zerrim&theme=default">
-    </picture>
-  </p>
 </div>
 
----
+<br/>
 
-## About me
+<!-- GitHub Activity -->
+## 🚀 Contribution & Activity
 
-I build production-grade systems combining AI and modern web frameworks. Experience includes AI assistants, analytics dashboards, and full-stack platforms.
+<div align="center">
 
-- **Location:** (add your location)  
-- **Email:** rabiezerrim@gmail.com  
-- **Resume:** https://rabie-zerrim.github.io/Portfolio/resume.pdf
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&theme=github-dark&hide_border=true" 
+  />
 
----
+</div>
 
-## Pinned Projects
+<br/>
 
-<details>
-<summary><strong>Partnerly — Partnership Management</strong></summary>
+<!-- Contact -->
+## 🌐 Connect with Me
 
-A Flutter app to manage partnerships, verify partners, automated reminders, analytics and PDF export. Reduced verification time by ~60%.  
-**Tech:** Flutter · Dart · Material 3  
-**Repo:** https://github.com/Rabie-Zerrim/Partnerly
+<p align="center">
+  <a href="https://linkedin.com/in/rabie-zerrim">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="mailto:rabiezerrim@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  <a href="https://github.com/Rabie-Zerrim">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+</p>
 
-</details>
+<br/>
 
-<details>
-<summary><strong>Sage Class — AI Assistant</strong></summary>
-
-AI assistant for classroom management — handled large-scale student queries and improved teacher workflows.  
-**Tech:** Python · NLP · scikit-learn  
-**Repo:** https://github.com/Rabie-Zerrim/Sage-Class-AI-Assistant
-
-</details>
-
-<details>
-<summary><strong>PennyWise</strong></summary>
-
-Automated financial planning tool with interactive dashboards and timeline calculations.  
-**Repo:** https://github.com/Rabie-Zerrim/PennyWise
-
-</details>
-
----
-
-## Tech & Tools
-
-**Languages:** Python · Java · Dart · JavaScript  
-**Frameworks:** Vue.js · React · Spring Boot · Symfony · Django  
-**Mobile:** Flutter · JavaFX  
-**DB & DevOps:** MySQL · PostgreSQL · Docker · Jenkins  
-**AI/ML:** NLP · scikit-learn · SVM · TF-IDF
-
----
-
-## Contact
-
-Open to internships and collaborations — rabiezerrim@gmail.com • https://rabie-zerrim.github.io/Portfolio/
-
----
-
-_Last updated: 2025-11-14_
-'@
-
-Set-Content -Path .\README-C.md -Value $content -Encoding UTF8
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
