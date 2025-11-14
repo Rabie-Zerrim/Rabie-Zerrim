@@ -34,10 +34,11 @@ I love building **AI-powered solutions**, optimizing systems, and creating smoot
 
 ---
 
-## 🤖 AI & Machine Learning Tech Stack
+
+## 🤖 AI & ML Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,jupyter,fastapi,flask&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,fastapi,flask,jupyter&perline=5" />
 </p>
 
 ---
