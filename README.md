@@ -84,12 +84,29 @@ I'm a passionate software developer building **clean, scalable and modern digita
 
 ---
 
-## 📊 GitHub Stats (Custom Blue Cards)
+## 📊 GitHub Stats (Custom Blue Cards — AI/ML Focus)
 
 <div align="center">
+
+  <!-- General Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=00000000" height="165" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabie-Zerrim&layout=compact&hide_border=true&title_color=1e90ff&text_color=ffffff&bg_color=00000000" height="165" />
+  <!-- Custom AI/ML Stack Card -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rabie-Zerrim&repo=AI-ML-Showcase&title_color=1e90ff&text_color=ffffff&icon_color=1e90ff&bg_color=00000000&hide_border=true" height="165" />
+</div>
+
+<br/>
+
+### 🧠 AI/ML Breakdown (Custom Visual Overview)
+<div align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow-1e90ff?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-1e90ff?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-1e90ff?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-1e90ff?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-1e90ff?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-1e90ff?style=for-the-badge&logo=python&logoColor=white" />
+
 </div>
 
 ---
