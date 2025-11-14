@@ -1,138 +1,126 @@
-# Rabie Zerrim – Optimized Blue Theme README (Deep Blue • No Glow)
+<h1 align="center">Hi, I'm Rabie Zerrim 👋</h1>
+<p align="center">AI/ML Developer • Full-Stack Engineer • Cloud & DevOps Enthusiast</p>
 
-<!-- Banner / Hero -->
-<h1 align="center">Hi, I'm <strong>Rabie Zerrim</strong> 👋</h1>
-<p align="center">Software Developer • Full‑Stack Engineer • Problem Solver</p>
-<br/>
+---
 
-<!-- Badges -->
+## 🔗 Links
+
 <p align="center">
-  <a href="https://github.com/Rabie-Zerrim">
-    <img src="https://komarev.com/ghpvc/?username=Rabie-Zerrim&style=for-the-badge&label=Profile+Views"/>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-blue?style=for-the-badge" />
   </a>
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/badge/user/e4dcfa04-d64c-44f4-b3bc-82f450b67c3e.svg?style=for-the-badge"/>
+  <a href="https://your-cv-link.com">
+    <img src="https://img.shields.io/badge/📄_Download_CV-blue?style=for-the-badge" />
   </a>
-</p>
-
-<br/>
-
----
-
-## 👨‍💻 About Me
-I'm a passionate software developer building **clean, scalable and modern digital solutions**.
-
-- 🔭 Currently working on: **Full‑Stack solutions & Cloud‑native apps**  
-- 🚀 Interested in: **AI, Microservices, Mobile Apps, Frontend Frameworks**  
-- 📫 Reach me: **rabiezerrim@gmail.com**  
-
-<br/>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" />
-</p>
-
----
-
-## 🤖 AI / Machine Learning Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" />
-</p>
-
----
-
-## 📁 Portfolio & CV
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0044ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://your-cv-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20CV-0044ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/📧_Contact_Me-blue?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 📁 Portfolio & CV
+## 🎨 About Me
+
+I'm an AI/ML engineer and full-stack developer specializing in:
+
+- Machine Learning & Deep Learning
+- API engineering for ML systems
+- High-performance backend applications
+- Cloud-native architectures
+- Mobile apps using Flutter
+- Scalable and maintainable software design
+
+I love building **AI-powered solutions**, optimizing systems, and creating smooth UI/UX experiences.
+
+---
+
+## 🤖 AI & Machine Learning Tech Stack
+
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-1e90ff?style=for-the-badge"/>
-  </a>
-  <a href="https://your-cv-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20CV-1e90ff?style=for-the-badge"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,jupyter,fastapi,flask&perline=6" />
 </p>
 
-<br/>
-
 ---
 
-## 📊 GitHub Stats (Custom Blue Cards — AI/ML Focus)
+## 💻 Full-Stack & Mobile Development
 
-<div align="center">
-
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=00000000" height="165" />
-
-  <!-- Custom AI/ML Stack Card -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rabie-Zerrim&repo=AI-ML-Showcase&title_color=1e90ff&text_color=ffffff&icon_color=1e90ff&bg_color=00000000&hide_border=true" height="165" />
-</div>
-
-<br/>
-
-### 🧠 AI/ML Breakdown (Custom Visual Overview)
-<div align="center">
-
-<img src="https://img.shields.io/badge/TensorFlow-1e90ff?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-1e90ff?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-1e90ff?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-1e90ff?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-1e90ff?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Pipelines-1e90ff?style=for-the-badge&logo=python&logoColor=white" />
-
-</div>
-
----
-
-## 🚀 Contribution & Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=000814&color=1e90ff&line=1e90ff&point=ffffff&area=true&area_color=1e90ff&area_opacity=0.35&hide_border=true&radius=14" />
-</div>
-
-<br/>
-
----
-
-## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/rabie-zerrim" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  <img src="https://skillicons.dev/icons?i=java,react,vue,flutter,spring,selenium,django,symfony,php,html,css,js,ts,nodejs,mysql,postgres,mongodb&perline=8" />
+</p>
+
+---
+
+## ⚙ DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,aws,azure,gcp&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats (AI/ML Focus)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rabie-Zerrim&show_icons=true&theme=blue_navy&hide_border=true&count_private=true" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabie-Zerrim&layout=compact&theme=blue_navy&hide_border=true&langs_count=12" 
+    height="165" 
+  />
+</p>
+
+---
+
+## 🔥 Streak Stats (Blue Theme)
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rabie-Zerrim&theme=blue_navy&hide_border=true"
+    height="165" 
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph (Fuller Look)
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&theme=react-dark&hide_border=true&area=true&line=4BA3FA&point=4BA3FA&color=4BA3FA" 
+  />
+</p>
+
+---
+
+## 🚀 Featured Projects (Optional Section)
+
+### 👉 Project 1
+AI-powered recommendation engine with FastAPI backend.
+
+### 👉 Project 2
+Flutter mobile app with real-time ML inference.
+
+### 👉 Project 3
+Full-stack cloud deployment using Docker + CI/CD.
+
+---
+
+## 💬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rabie-zerrim">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
   </a>
-  <a href="mailto:rabiezerrim@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  <a href="mailto:youremail@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50px" />
   </a>
   <a href="https://github.com/Rabie-Zerrim">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
+    <img src="https://skillicons.dev/icons?i=github" width="50px" />
   </a>
 </p>
 
-<br/>
+---
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+<p align="center">⭐ If you like my work, give my repos a star!</p>
