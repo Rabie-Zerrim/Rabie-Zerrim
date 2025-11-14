@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rabie Zerrim 👋</h1>
-<p align="center">AI/ML Developer • Full-Stack Engineer • Cloud & DevOps Enthusiast</p>
+<p align="center">AI/ML Developer • Software Architecture Engineer • Cloud & DevOps Enthusiast</p>
 
 ---
 
