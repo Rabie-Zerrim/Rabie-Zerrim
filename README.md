@@ -6,13 +6,13 @@
 ## 🔗 Links
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="[https://your-portfolio-link.com](https://rabie-zerrim.github.io/Portfolio/)">
     <img src="https://img.shields.io/badge/🌐_Portfolio-blue?style=for-the-badge" />
   </a>
   <a href="https://your-cv-link.com">
     <img src="https://img.shields.io/badge/📄_Download_CV-blue?style=for-the-badge" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:rabiezerrim@gmail.com">
     <img src="https://img.shields.io/badge/📧_Contact_Me-blue?style=for-the-badge" />
   </a>
 </p>
