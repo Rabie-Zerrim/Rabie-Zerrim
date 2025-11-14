@@ -31,14 +31,16 @@ I enjoy full-stack development, system architecture, and solving complex problem
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/react.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/vue.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/flutter.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/spring.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/symfony.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/robinzonjan/icons/master/animated/django.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/python.gif" width="55" />
+  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/java.gif" width="55" />
+  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/react.gif" width="55" />
+  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/vue.gif" width="55" />
+  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/flutter.gif" width="55" />
+  <img src="https://raw.githubusercontent.com/ElijahPepe/animated-technology-icons/master/icons/spring.gif" width="55" />
+
+  <!-- Static icons for now -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="55" />
 </p>
 
 
@@ -68,7 +70,7 @@ I enjoy full-stack development, system architecture, and solving complex problem
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&area_color=00ff7f&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=0d1117&color=009dff&line=009dff&point=ffffff&area=true&area_color=009dff&hide_border=true" />
 
 
 </div>
