@@ -68,7 +68,7 @@ I enjoy full-stack development, system architecture, and solving complex problem
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&area_color=00ff7f&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabie-Zerrim&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&area_color=00ff7f&hide_border=true" />
 
 
 </div>
